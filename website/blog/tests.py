@@ -1,4 +1,4 @@
-import models
+from blog import models
 from django.test import TestCase
 
 
